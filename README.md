@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Rameez 👋
 
-<!--
-**Rameezayb/Rameezayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer and AI enthusiast aspiring to become a data scientist, dedicated to leveraging technology for the welfare of everyday people and making life simpler for all. Especially I wants to innovate Health Sector with AI.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 💼 **Profession:** Software Engineer, Full-Stack Developer  
+- 🚀 **Current Focus:** AI, Data Science, building solutions that matter
+- 🌟 **Tech Stack:**  
+  - JavaScript | React | Node.js | ASP.NET Core | Python
+
+---
+
+### 🔗 Connect with Me
+
+- [LinkedIn](http://linkedin.com/in/muhammad-rameez-b4751928a)
+
+---
