@@ -1,6 +1,6 @@
 # Hi there, I'm Rameez 👋
 
-**Full-stack developer and AI enthusiast aspiring to become a data scientist, dedicated to leveraging technology for the welfare of everyday people and making life simpler for all. Especially I wants to innovate Health Sector with AI.**
+**Full-stack / AI developer aspiring to become a scientist researcher, dedicated to leveraging technology for the welfare of everyday people and making life simpler for all. Especially I wants to innovate Health Sector with AI.**
 
 ---
 
