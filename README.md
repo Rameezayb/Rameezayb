@@ -17,10 +17,6 @@ I am particularly interested in understanding the **mathematical foundations of 
 
 ---
 
-📫 **Let's talk research & systems:** [LinkedIn](https://www.linkedin.com/) | [RDEX Solutions](https://rdexsolutions.com/)
-
----
-
 ### 🔗 Connect with Me
 
 - [LinkedIn](http://linkedin.com/in/muhammad-rameez-b4751928a)
