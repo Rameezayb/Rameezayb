@@ -1,16 +1,19 @@
-# Hey, I'm Rameez 
+# AI Engineer & Researcher | Mathematical AI • Healthcare Intelligence • Computer Vision • Data Science • Embedded AI
 
-I’m an **Applied AI Engineer and Researcher** solving computer vision and medical intelligence problems from first mathematical principles. Rather than treating deep learning as a black box, I formulate problems through numerical optimization, linear algebra, and probabilistic modeling—then translate those formulations into fast, production-grade code.
+**My name is Rameez**, and I am an **AI Engineer and Researcher** focused on the intersection of **Artificial Intelligence, Mathematical Modeling, Healthcare Intelligence, and Computer Vision**.
 
-### 📐 Mathematical Thinking & Modeling
-* **First-Principles Neural Design:** Formulating custom objective/loss functions, handling gradient dynamics, and coding backpropagation from raw matrix calculus (NumPy).
-* **Optimization & Geometry:** Convex/non-convex optimization, high-dimensional vector spaces, SVD/eigen-decompositions, and latent manifold representations.
-* **Probabilistic Reasoning:** Bayesian inference, uncertainty estimation in clinical diagnostics, and stochastic modeling.
+My work focuses on developing and researching intelligent systems through **machine learning, deep learning, mathematical methods, statistical modeling, computer vision, and data-driven approaches**.
 
-### 🔬 Applied Systems & Engineering
-* **Vision & Healthcare:** Medical image segmentation (U-Net, Vision Transformers), attention mechanisms, and multi-modal feature extraction.
-* **ML Systems & Scalability:** Python, PyTorch, vectorized pipelines, FastAPI inference microservices, and Docker.
-* **Core Architecture:** React, Node.js, ASP.NET Core, relational/document database design.
+### 🔬 Research Focus
+
+* **Artificial Intelligence & Machine Learning**
+* **Mathematical AI & Optimization**
+* **Healthcare AI & Medical Intelligence**
+* **Computer Vision & Medical Image Analysis**
+* **Data Science & Statistical Modeling**
+* **Embedded AI & Intelligent Edge Systems**
+
+I am particularly interested in understanding the **mathematical foundations of intelligent systems**, designing novel AI approaches, conducting experiments, and translating research concepts into practical intelligent systems.
 
 ---
 
